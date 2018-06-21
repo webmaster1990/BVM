@@ -22,12 +22,12 @@ class Clients extends Component {
                                 <div id="left_scroll"><a/></div>
                                 <div id="carousel_inner">
                                     <ul className="clearfix" id="carousel_ul">
-                                        <li><span><img src="images/clients/c1.png" alt="message in bottle" /></span></li>
-                                        <li><span><img src="images/clients/c2.png" alt="cvdoo" /></span></li>
-                                        <li><span><img src="images/clients/c3.png" alt="politiq" /></span></li>
-                                        <li><span><img src="images/clients/c4.png" alt="skuchain" /></span></li>
-                                        <li><span><img src="images/clients/c5.png" alt="i love intently" /></span></li>
-                                        <li><span><img src="images/clients/c6.png" alt="munivisior" /></span></li>
+                                        <li><span><img src="images/c1.png" alt="message in bottle" /></span></li>
+                                        <li><span><img src="images/c2.png" alt="cvdoo" /></span></li>
+                                        <li><span><img src="images/c3.png" alt="politiq" /></span></li>
+                                        <li><span><img src="images/c4.png" alt="skuchain" /></span></li>
+                                        <li><span><img src="images/c5.png" alt="i love intently" /></span></li>
+                                        <li><span><img src="images/c6.png" alt="munivisior" /></span></li>
                                     </ul>
                                 </div>
                                 <div id="right_scroll"><a /></div>
