@@ -130,7 +130,7 @@ class About extends Component {
                         <div className="col-md-4 clearfix">
                             {/* Service */}
                             <div className="services-box new-line item_right">
-                                <h4>Android Development</h4>
+                                <h4>Android</h4>
                                 <div className="services-box-icon">
                                     <img src='images/about/android.png' alt="Android" style={{width : '100%',height : '100%',margin: 0,verticalAlign:'top'}}/>
                                 </div>
