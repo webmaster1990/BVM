@@ -71,7 +71,7 @@ class Portfolio extends React.Component {
                             </article>
                             <article className="photo web video">
                                 <div>
-                                    <img src="images/portfolio/p1.jpg" alt="image" />
+                                    <img src="/images/portfolio/p1.jpg" alt="image" />
                                     <div className="overlay">
                                         <div className="item-info">
                                             <i className="fa fa-laptop" />
@@ -84,7 +84,7 @@ class Portfolio extends React.Component {
                             </article>
                             <article className="video design mobile" target="_blank">
                                 <div>
-                                    <img src="images/portfolio/p2.jpg" alt="image" />
+                                    <img src="/images/portfolio/p2.jpg" alt="image" />
                                     <div className="overlay">
                                         <div className="item-info">
                                             <i className="fa fa-laptop" />
@@ -97,7 +97,7 @@ class Portfolio extends React.Component {
                             </article>
                             <article className="web photo">
                                 <div>
-                                    <img src="images/portfolio/p4.jpg" alt="image" />
+                                    <img src="/images/portfolio/p4.jpg" alt="image" />
                                     <div className="overlay">
                                         <div className="item-info">
                                             <i className="fa fa-laptop" />
@@ -110,7 +110,7 @@ class Portfolio extends React.Component {
                             </article>
                             <article className="mobile video">
                                 <div>
-                                    <img src="images/portfolio/p5.jpg" alt="image" />
+                                    <img src="/images/portfolio/p5.jpg" alt="image" />
                                     <div className="overlay">
                                         <div className="item-info">
                                             <i className="fa fa-laptop" />
@@ -123,7 +123,7 @@ class Portfolio extends React.Component {
                             </article>
                             <article className="photo video">
                                 <div>
-                                    <img src="images/portfolio/p6.jpg" alt="image" />
+                                    <img src="/images/portfolio/p6.jpg" alt="image" />
                                     <div className="overlay">
                                         <div className="item-info">
                                             <i className="fa fa-laptop" />
@@ -136,7 +136,7 @@ class Portfolio extends React.Component {
                             </article>
                             <article className="web mobile video">
                                 <div>
-                                    <img src="images/portfolio/p7.jpg" alt="image" />
+                                    <img src="/images/portfolio/p7.jpg" alt="image" />
                                     <div className="overlay">
                                         <div className="item-info">
                                             <i className="fa fa-laptop" />
@@ -149,7 +149,7 @@ class Portfolio extends React.Component {
                             </article>
                             <article className="video photo web design">
                                 <div>
-                                    <img src="images/portfolio/p8.jpg" alt="image" />
+                                    <img src="/images/portfolio/p8.jpg" alt="image" />
                                     <div className="overlay">
                                         <div className="item-info">
                                             <i className="fa fa-laptop" />
@@ -162,7 +162,7 @@ class Portfolio extends React.Component {
                             </article>
                             <article className="design photo">
                                 <div>
-                                    <img src="images/portfolio/p9.jpg" alt="image" />
+                                    <img src="/images/portfolio/p9.jpg" alt="image" />
                                     <div className="overlay">
                                         <div className="item-info">
                                             <i className="fa fa-laptop" />
