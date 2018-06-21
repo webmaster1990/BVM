@@ -10,6 +10,7 @@ import Skill from "./components/Skill/index";
 import Process from "./components/Process/index";
 import MapLocation from "./components/MapLocation/index";
 import Header from "./components/Header/index";
+import Login from "./components/Login/index";
 
 class App extends Component {
     render() {
@@ -26,6 +27,7 @@ class App extends Component {
                 <ContactUs/>
                 <MapLocation/>
                 <Footer/>
+                <Login/>
 
             </div>
         );
