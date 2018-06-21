@@ -58,7 +58,7 @@ class Portfolio extends React.Component {
                         <div id="portfolio-items" className="portfolio-items item_fade_in">
                             <article className="design photo">
                                 <div>
-                                    <img src="images/portfolio/p3.jpg" alt="image" />
+                                    <img src="/images/portfolio/p3.jpg" alt="image" />
                                     <div className="overlay">
                                         <div className="item-info">
                                             <i className="fa fa-laptop" />
