@@ -28,6 +28,7 @@ class Clients extends Component {
                                         <li><span><img src="images/c4.png" alt="skuchain" /></span></li>
                                         <li><span><img src="images/c5.png" alt="i love intently" /></span></li>
                                         <li><span><img src="images/c6.png" alt="munivisior" /></span></li>
+                                        <li><span><img src="images/c7.png" alt="innroad" /></span></li>
                                     </ul>
                                 </div>
                                 <div id="right_scroll"><a /></div>

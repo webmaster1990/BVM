@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { BrowserRouter as Router, Route, Switch} from 'react-router-dom'
 import Home from './components/Home';
 import About from './components/About';
 import ContactUs from './components/ContactUs';
@@ -10,7 +11,6 @@ import Skill from "./components/Skill/index";
 import Process from "./components/Process/index";
 import MapLocation from "./components/MapLocation/index";
 import Header from "./components/Header/index";
-import Login from "./components/Login/index";
 
 class App extends Component {
     render() {
@@ -27,8 +27,6 @@ class App extends Component {
                 <ContactUs/>
                 <MapLocation/>
                 <Footer/>
-                <Login/>
-
             </div>
         );
     }

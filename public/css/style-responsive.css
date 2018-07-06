@@ -137,7 +137,7 @@ font-size:44px;
 }
 .navbar .navbar-nav {
     float: right;
-    margin: 2px 0;
+    margin: 7px 2px 0px;
 }
 .navbar .navbar-nav li {
     margin-left: 3px;
@@ -214,7 +214,7 @@ transform: rotate(75deg);
 }
 .navbar .navbar-nav {
     float: right;
-    margin: 2px 0;
+    margin: 7px 2px 0px;
 }
 .navbar .navbar-nav li {
     margin-left: 5px;

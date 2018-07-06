@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Header extends Component {
     render() {
         return (
-            <div className="navbar navbar-transparent navbar-fixed-top" style={{background:'black'}}>
+            <div className="heaader navbar navbar-transparent navbar-fixed-top" style={{background:'black'}}>
                 <div className="container">
                     <div className="navbar-header">
                         <button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">

@@ -173,6 +173,32 @@ class Portfolio extends React.Component {
                                     {/* End .overlay */}
                                 </div>
                             </article>
+                            <article className="design photo">
+                                <div>
+                                    <img src="images/p10.jpg" alt="image" />
+                                    <div className="overlay">
+                                        <div className="item-info">
+                                            <i className="fa fa-laptop" />
+                                            <h3>Project of Website</h3>
+                                            <span>web</span>
+                                        </div>
+                                    </div>
+                                    {/* End .overlay */}
+                                </div>
+                            </article>
+                            <article className="design photo">
+                                <div>
+                                    <img src="images/p11.jpg" alt="image" />
+                                    <div className="overlay">
+                                        <div className="item-info">
+                                            <i className="fa fa-laptop" />
+                                            <h3>Project of Website</h3>
+                                            <span>web</span>
+                                        </div>
+                                    </div>
+                                    {/* End .overlay */}
+                                </div>
+                            </article>
 
                         </div>
                         {/* End #portfolio-items.portfolio-items */}

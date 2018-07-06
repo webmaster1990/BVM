@@ -38,7 +38,7 @@ class ContactUs extends Component {
                         </div>
                     </div>
                     <div className="row item_fade_in">
-                        <h4 className="text-center">Drop me a Line</h4>
+                        {/*<h4 className="text-center">Drop me a Line</h4>*/}
                         <div className="col-md-6 col-md-offset-3">
                             <div className="form-respond text-center">
                             </div>
