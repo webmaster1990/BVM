@@ -1,0 +1,12 @@
+node_modules/
+.idea/
+.vscode/
+dist/
+build/
+.DS_Store
+
+coverage
+
+# dotenv environment variables file
+.env
+.env.local
